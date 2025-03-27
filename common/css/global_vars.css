@@ -1,0 +1,14 @@
+ /* Global CSS variabels + overwrite Bootstrap variabels comes here */
+
+ :root {
+  --fs-body-bg: #faf8ee;
+  --fs-navbar-bg: #e5e2da;
+  --fs-primary-hover-color: black;
+  --fs-secondary-hover-color: rgba(255, 153, 0, 0.98);
+  --fs-secondary-color: rgba(255, 153, 0, 0.98);
+  --fs-primary-text-color: #F8F4E3;
+  /*--fs-secondary-text-color:*/
+  --fs-headng-font-family: "Lobster", Serif;
+  --fs-body-font-family: "Rubik", Serif;
+
+ }
